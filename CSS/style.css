@@ -1,0 +1,86 @@
+.nav-top {
+    background-color: rgb(28, 28, 92) !important;
+}
+
+.nav-menu {
+    color: white !important;
+}
+
+.img-car {
+    max-height: 1000px !important;
+}
+
+.to-car {
+    background-color: rgb(28, 28, 92);
+}
+
+.sec-pacotes {
+    margin-right: 10% !important;
+    margin-left: 13% !important;
+}
+
+.sec-pacotes {
+    text-align: justify;
+}
+
+.card {
+    margin-left: 1em !important;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    padding: 1em !important;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(28, 28, 92);
+    color: #ffffff;
+    padding-top: 1em !important;
+}
+
+.contato {
+    margin: 0;
+    text-align: center;
+    color: #000000;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    background-color: rgb(28, 28, 92) !important;
+}
+
+
+/**Contato**/
+.nom1 {
+    background-color: rgb(28, 28, 92);
+    color: #FFF;
+    margin-right: 0% !important;
+    text-align: left !important;
+}
+
+.mt-3 {
+    background-color: rgb(28, 28, 92);
+    color: #FFF;
+    margin-right: 10%;
+    text-align: left !important;
+}
+
+
+
+.col-sm-4 {
+    margin-left: 50% !important;
+    background-color: rgb(28, 28, 92);
+
+}
+
+.col-sm-8 {
+    background-color: rgb(28, 28, 92);
+
+}
+
+.btnbot {
+
+    margin-right: 100%;
+}
+
+.img-menu {
+    border-radius: 100%;
+
+}
